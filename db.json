@@ -1,0 +1,148 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Raksana",
+      "surname": "Pasayeva",
+      "birthday": "1990-05-12",
+      "rank": "Manager",
+      "description": "Team lead in the finance department.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNJryFTSQUV8Zuu_EGw2iUCpMbIIKWHBl2eQ&s"
+    },
+    {
+      "id": 2,
+      "name": "Nigar",
+      "surname": "Aghayeva",
+      "birthday": "1992-07-23",
+      "rank": "Developer",
+      "description": "Backend developer with experience in Node.js.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNJryFTSQUV8Zuu_EGw2iUCpMbIIKWHBl2eQ&s"
+    },
+    {
+      "id": 3,
+      "name": "Nuray",
+      "surname": "Aliyeva",
+      "birthday": "1995-10-15",
+      "rank": "Designer",
+      "description": "UI/UX designer with 5 years of experience.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNJryFTSQUV8Zuu_EGw2iUCpMbIIKWHBl2eQ&s"
+    },
+    {
+      "id": 4,
+      "name": "Revan",
+      "surname": "Mustafayev",
+      "birthday": "1990-01-18",
+      "rank": "Developer",
+      "description": "Frontend developer specializing in React.",
+      "image": "https://i.pinimg.com/736x/5f/40/6a/5f406ab25e8942cbe0da6485afd26b71.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Cavid",
+      "surname": "Huseynov",
+      "birthday": "1987-11-02",
+      "rank": "CTO",
+      "description": "Chief Technology Officer.",
+      "image": "https://i.pinimg.com/736x/5f/40/6a/5f406ab25e8942cbe0da6485afd26b71.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Ağasəlim",
+      "surname": "Aliyev",
+      "birthday": "1993-06-30",
+      "rank": "Engineer",
+      "description": "DevOps engineer.",
+      "image": "https://i.pinimg.com/736x/5f/40/6a/5f406ab25e8942cbe0da6485afd26b71.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Əli",
+      "surname": "Rahimov",
+      "birthday": "1989-04-14",
+      "rank": "Support",
+      "description": "Customer support specialist.",
+      "image": "https://i.pinimg.com/736x/5f/40/6a/5f406ab25e8942cbe0da6485afd26b71.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Maqa",
+      "surname": "Hajiyev",
+      "birthday": "1991-12-25",
+      "rank": "Intern",
+      "description": "Intern in the marketing department.",
+      "image": "https://i.pinimg.com/736x/5f/40/6a/5f406ab25e8942cbe0da6485afd26b71.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Oqtay",
+      "surname": "Ismayilov",
+      "birthday": "1988-09-19",
+      "rank": "Project Manager",
+      "description": "Project manager with a focus on software development.",
+      "image": "https://i.pinimg.com/736x/5f/40/6a/5f406ab25e8942cbe0da6485afd26b71.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Ayhan",
+      "surname": "Muradov",
+      "birthday": "1994-03-11",
+      "rank": "Analyst",
+      "description": "Data analyst.",
+      "image": "https://i.pinimg.com/736x/5f/40/6a/5f406ab25e8942cbe0da6485afd26b71.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Zaur",
+      "surname": "Karimov",
+      "birthday": "1986-08-17",
+      "rank": "Consultant",
+      "description": "IT consultant.",
+      "image": "https://i.pinimg.com/736x/5f/40/6a/5f406ab25e8942cbe0da6485afd26b71.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Rasim",
+      "surname": "Suleymanov",
+      "birthday": "1995-02-08",
+      "rank": "Developer",
+      "description": "Junior developer focusing on mobile apps.",
+      "image": "https://i.pinimg.com/736x/5f/40/6a/5f406ab25e8942cbe0da6485afd26b71.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Amin",
+      "surname": "Nasibov",
+      "birthday": "1993-07-05",
+      "rank": "Sales Manager",
+      "description": "Responsible for client relations and sales.",
+      "image": "https://i.pinimg.com/736x/5f/40/6a/5f406ab25e8942cbe0da6485afd26b71.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Əliəkbər",
+      "surname": "Bagirov",
+      "birthday": "1990-12-10",
+      "rank": "HR",
+      "description": "Head of Human Resources.",
+      "image": "https://i.pinimg.com/736x/5f/40/6a/5f406ab25e8942cbe0da6485afd26b71.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Məhəmməd",
+      "surname": "Mammadov",
+      "birthday": "1992-09-29",
+      "rank": "Legal Advisor",
+      "description": "In-house legal advisor.",
+      "image": "https://i.pinimg.com/736x/5f/40/6a/5f406ab25e8942cbe0da6485afd26b71.jpg"
+    },
+    {
+      "id": "1ee9",
+      "name": "wda",
+      "surname": "awda",
+      "birthday": "2024-10-03",
+      "rank": "daw",
+      "description": "wad",
+      "image": "placeholder.jpg"
+    }
+  ]
+}
